@@ -23,7 +23,7 @@ Instala Dependências
 
     npm run dev
 
-<!-- [Acessar o projeto](https://wsawebmaster.github.io/react-todo/) -->
+[Acessar o projeto](https://react-todo-delta-roan.vercel.app/)
 
 <br />
 
