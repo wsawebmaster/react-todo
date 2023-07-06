@@ -11,7 +11,7 @@ function App() {
   const [todos, setTodos] = useState([
     {
       id: 1,
-      text: "Criar Portfólio usando react, node e animações",
+      text: "Criar Portfólio",
       category: "Trabalho",
       isCompleted: false,
     },
