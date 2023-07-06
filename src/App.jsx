@@ -13,7 +13,7 @@ function App() {
       id: 1,
       text: "Criar Portfólio",
       category: "Trabalho",
-      isCompleted: false,
+      isCompleted: true,
     },
     {
       id: 2,
@@ -25,13 +25,13 @@ function App() {
       id: 3,
       text: "Estudar JavaScript",
       category: "Estudos",
-      isCompleted: false,
+      isCompleted: true,
     },
     {
       id: 4,
       text: "Estudar Node",
       category: "Estudos",
-      isCompleted: false,
+      isCompleted: true,
     },
     {
       id: 5,
