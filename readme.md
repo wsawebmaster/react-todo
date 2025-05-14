@@ -24,11 +24,21 @@ Instala Dependências
 
     npm run dev
 
-Acessar o Projeto
+Acessar o Projeto <br />
 [Local](http://localhost:5173) -
 [Remoto](https://react-todo-delta-roan.vercel.app/)
 
+💡💡💡
 
+    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+
+    source ~/.nvm/nvm.sh
+
+    nvm ls-remote
+    
+    nvm install 16.20.2
+    
+    nvm use 16.20.2
 
 ---
 ---
