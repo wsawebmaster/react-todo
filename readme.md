@@ -1,14 +1,15 @@
 # 📂 Todo em React
 
 ## 📃 Projeto desenvolvido conforme orientações do Matheus Battisti do canal Hora de Codar
-<br />
 
 ## 🚀 Tecnologias
 
 - HTML
 - CSS
 - REACT
-<br />
+- NODE 16
+- NVM
+
 
 ## 💻 Projeto
 > Frontend da aplicação 📸
@@ -23,11 +24,17 @@ Instala Dependências
 
     npm run dev
 
-[Acessar o projeto](https://react-todo-delta-roan.vercel.app/)
+Acessar o Projeto
+[Local](http://localhost:5173) -
+[Remoto](https://react-todo-delta-roan.vercel.app/)
 
-<br />
+
 
 ---
 ---
+
 ## 📧 Contato
-wsawebmaster@yahoo.com.br
+
+[LinkedIn](https://www.linkedin.com/in/wsawebmaster/)
+
+[wsawebmaster@yahoo.com.br](mailto:wsawebmaster@yahoo.com.br)
